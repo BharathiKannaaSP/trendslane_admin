@@ -1,0 +1,11 @@
+[?9001h[?1004h[?25l[2J[m[H]0;C:\WINDOWS\system32\cmd.exe [?25h[?25l
+> admin@0.1.0 dev C:\Users\Bharathi Kannaa S P\OneDrive\Desktop\Trendslane\trendslane\apps\admin
+> next dev --turbopack[6;1H[?25h[?25l [33m[1m⚠[m Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of C:\Users\Bharathi Kannaa S P\pnpm-lock.yaml as the root directory.
+ To silence this warning, set `turbopack.root` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/turbopack#root-directory for more information.
+ Detected additional lockfiles: 
+   * C:\Users\Bharathi Kannaa S P\OneDrive\Desktop\Trendslane\trendslane\pnpm-lock.yaml[18;1H[?25h]0;next-server (v15.5.4)   [38;2;173;127;168m[1m▲ Next.js 15.5.4[m (Turbopack)
+[?25l   - Local:        http://localhost:3000
+   - Network:      http://192.168.137.1:3000[22;1H [32m[1m✓[m Starting...
+[?25h [32m[1m✓[m Ready in 3.4s
